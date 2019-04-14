@@ -1,0 +1,21 @@
+{
+    "name": "d4mation-theme",
+    "displayName": "d4mation theme",
+    "description": "Long ago I found a theme for Notepad++ that I liked. I cannot remember what it was called any longer, but this theme has followed me from editor to editor as I've recreated it.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "d4mation theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/d4mation theme-color-theme.json"
+            }
+        ]
+    }
+}
